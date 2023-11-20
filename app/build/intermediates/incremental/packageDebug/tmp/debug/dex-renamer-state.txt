@@ -1,0 +1,7 @@
+#Mon Nov 20 12:33:48 UZT 2023
+base.0=D\:\\Self_Study\\MLKit\\codelab-mlkit-android-master (1)\\codelab-mlkit-android-master\\object-detection\\starter\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Self_Study\\MLKit\\codelab-mlkit-android-master (1)\\codelab-mlkit-android-master\\object-detection\\starter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
